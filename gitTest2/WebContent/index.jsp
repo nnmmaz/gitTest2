@@ -9,6 +9,9 @@
 <body>
 	<ul>
 		<li>HTML</li>
+		<li>JAVASCRIPT</li>
+		<li>CSS</li>
+		<li>JQUREY</li>
 	</ul>
 </body>
 </html>
