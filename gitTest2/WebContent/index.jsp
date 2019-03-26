@@ -13,5 +13,10 @@
 		<li>CSS</li>
 		<li>JQUREY</li>
 	</ul>
+	<ul>
+		<li>JSP</li>
+		<li>SERVLET</li>
+		<li>JDBC</li>
+	</ul>
 </body>
 </html>
