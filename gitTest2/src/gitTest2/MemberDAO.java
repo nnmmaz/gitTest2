@@ -14,4 +14,7 @@ public class MemberDAO {
 		
 	}
 	
+	public void modify() {
+		
+	}
 }
