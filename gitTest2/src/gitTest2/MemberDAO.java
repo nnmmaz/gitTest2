@@ -10,5 +10,8 @@ public class MemberDAO {
 		this.con = con;
 	}
 	
+	public void insert() {
+		
+	}
 	
 }
